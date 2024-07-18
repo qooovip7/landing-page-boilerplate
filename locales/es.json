@@ -1,42 +1,43 @@
 {
   "Hero": {
-    "title1": "",
-    "title2": "Página de aterrizaje",
-    "title3": "construcción rápida"
+    "title1": "Personaliza",
+    "title2": "Tu Viaje",
+    "title3": "Rápidamente",
+    "description": "Dinos tu destino y presupuesto, y obtén un plan de viaje completo al instante, incluyendo historia, atracciones, hoteles, boletos y itinerario."
   },
   "SocialProof": {
-    "maker": "creadores construyen rápido"
+    "maker": "Personalizador de Viajes"
   },
   "Feature": {
     "title": "Características"
   },
   "Pricing": {
     "title": "Precios",
-    "title2": "Obtén acceso ilimitado.",
-    "description": "La página que estás viendo actualmente es un template gratuito y de código abierto.",
-    "doYouLike": "¿Te gusta este template para páginas de aterrizaje?",
-    "follow": "Sigue mi Twitter."
+    "title2": "Personalizaciones Ilimitadas",
+    "description": "¡No te preocupes, actualmente somos gratuitos!",
+    "doYouLike": "¿Te gusta nuestro modelo?",
+    "follow": "Contáctanos"
   },
   "WallOfLove": {
     "title": "Muro del Amor",
-    "description1": "Si usas esta plantilla para página de aterrizaje y la recomiendas en tu Twitter,",
+    "description1": "Si usas esta plantilla de página de aterrizaje y la recomiendas en Twitter,",
     "description2": "por favor házmelo saber",
-    "description3": ". Exhibiré tu tweet y recomendación aquí."
+    "description3": ", y mostraré tu tweet y recomendación aquí."
   },
   "FAQ": {
     "title": "Preguntas Frecuentes",
-    "description": "Aquí están algunas de las preguntas más frecuentes."
+    "description": "Aquí están algunas de las preguntas más comunes."
   },
   "CTA": {
-    "title": "Construye tu página de aterrizaje ahora",
-    "description1": "Construye",
-    "description2": "tu página de aterrizaje,",
-    "description3": "muestra",
-    "description4": "tu producto, y",
-    "description5": "comienza a ganar",
-    "description6": "¡dinero!"
+    "title": "Comienza a Construir tu Viaje Ahora",
+    "description1": "Internacional",
+    "description2": "Una Nueva Perspectiva",
+    "description3": "Nacional",
+    "description4": "Tu Mejor Viaje de Relajación",
+    "description5": "Guía Completa",
+    "description6": "!"
   },
   "CTAButton": {
-    "title": "Obtener Plantilla"
+    "title": "Personalizador de Viajes"
   }
 }
