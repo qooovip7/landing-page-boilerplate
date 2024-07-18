@@ -1,43 +1,43 @@
 {
   "Hero": {
-    "title1": "Ship",
-    "title2": "Landing Page",
-    "title3": "Fast",
-    "description": "A free, open-source, and powerful landing page boilerplate, ideal for various projects, enabling you to create a landing page in under an hour."
+    "title1": "Customize",
+    "title2": "Your Travel",
+    "title3": "Plan Quickly",
+    "description": "Tell us your destination and budget, and get a complete travel plan instantly, including history, attractions, hotels, tickets, and itinerary."
   },
   "SocialProof": {
-    "maker": "makers ship fast"
+    "maker": "Travel Customizer"
   },
   "Feature": {
-    "title": "Features"
+    "title": "Feature"
   },
   "Pricing": {
     "title": "Pricing",
-    "title2": "Get unlimited access.",
-    "description": "The page you are currently viewing is an open-source, free boilerplate.",
-    "doYouLike": "Do you like this landing page boilerplate?",
-    "follow": "Follow my Twitter."
+    "title2": "Unlimited Customizations",
+    "description": "Don't worry, we're currently free to use!",
+    "doYouLike": "Do you like our model?",
+    "follow": "Contact Us"
   },
   "WallOfLove": {
     "title": "Wall of Love",
-    "description1": "If you use this landing page template and recommend it on your Twitter,",
+    "description1": "If you use this landing page template and recommend it on Twitter,",
     "description2": "please let me know",
-    "description3": ". I will display your tweet and recommendation here."
+    "description3": ", and I'll display your tweet and recommendation here."
   },
   "FAQ": {
     "title": "FAQs",
-    "description": "Here are some of the most frequently asked questions."
+    "description": "Here are some of the most common questions."
   },
   "CTA": {
-    "title": "Build Your Landing Page Now",
-    "description1": "Build",
-    "description2": "your landing page,",
-    "description3": "show",
-    "description4": "your product, and",
-    "description5": "start earning",
+    "title": "Start Building Your Journey Now",
+    "description1": "International",
+    "description2": "A New Perspective",
+    "description3": "Domestic",
+    "description4": "Your Best Relaxing Trip",
+    "description5": "Complete Guide",
     "description6": "!"
   },
   "CTAButton": {
-    "title": "Get Boilerplate"
+    "title": "Travel Customizer"
   }
 }
