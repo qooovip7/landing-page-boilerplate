@@ -45,33 +45,33 @@ export const FEATURES_EN = [
 
 export const FEATURES_ZH = [
   {
-    title: "开源优势",
-    content: "完全免费，提供丰富的自定义选项。",
+    title: "酒店推荐",
+    content: "不只是简单推荐，含带评分系统",
     icon: BsGithub,
   },
   {
-    title: "响应式设计",
-    content: "精心设计的模板，确保在任何设备上都能优化显示。",
+    title: "景点推荐",
+    content: "每个景点都有他的历史与文化，我们应该学习",
     icon: FaMobileScreenButton,
   },
   {
-    title: "易于定制",
-    content: "轻松更改颜色、字体和布局，无需任何编码知识。",
+    title: "按预算定制",
+    content: "想花多少钱，就定制多少钱的行程。",
     icon: FaToolbox,
   },
   {
-    title: "SEO优化",
-    content: "构建模板时考虑到搜索引擎优化，增强网站的可发现性。",
+    title: "门票价格",
+    content: "提前知道门票价格，才更容易知道开销。",
     icon: MagnetIcon,
   },
   {
-    title: "一键部署",
-    content: "与领先的网站托管服务紧密集成，实现即时网站发布。",
+    title: "物品清单",
+    content: "物品清单按所需行程准备，不会遗漏。",
     icon: MdCloudUpload,
   },
   {
     title: "全球化支持",
-    content: "支持多种语言，让你的网站吸引全球受众。",
+    content: "支持多种语言，让你想去哪里随便查",
     icon: FaEarthAsia,
   },
 ];
@@ -212,7 +212,7 @@ interface FeaturesCollection {
   [key: `FEATURES_${string}`]: {
     title: string;
     content: string;
-    icon: IconType | LucideIcon | string;
+    icon: IconType | LucideIcon;
   }[];
 }
 
