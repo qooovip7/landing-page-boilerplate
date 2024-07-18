@@ -1,379 +1,379 @@
 export const FAQS_EN = [
   {
-    title: "What is a landing page?",
+    title: "What is travel customization?",
     content:
-      "A landing page is a standalone web page created specifically for a marketing or advertising campaign. It's where a visitor 'lands' after they click on a link in an email, or ads from Google, Bing, YouTube, Facebook, Instagram, Twitter, or similar places on the web. Unlike web pages, which typically have many goals and encourage exploration, landing pages are designed with a single focus or goal, known as a call to action (CTA).",
+      "Travel customization is a personalized travel service that creates a unique travel plan tailored to your individual needs and preferences. You simply provide us with your departure location, destination, travel duration, and budget, and we will recommend the best attractions and hotels for you, along with detailed information on ticket prices. This way, you don't have to spend time researching and planning; we handle everything for you, making your travel experience smoother and more enjoyable. In short, we do all the planning, and you just enjoy the trip!",
   },
   {
-    title: "How can I create a landing page?",
+    title: "How do I fill in the departure and destination locations?",
     content:
-      "Creating a landing page can be done in several steps: 1) Choose a landing page template that fits your campaign's needs or start from scratch. 2) Identify your landing page's objective and CTA. 3) Write compelling content that urges visitors to take action. 4) Incorporate design elements such as images, videos, and forms that align with your message. 5) Test your page's usability and mobile responsiveness. 6) Use SEO best practices to help your page get found. 7) Publish your landing page and monitor its performance to make adjustments as needed.",
+      "When you enter the page, you will see a form where you need to fill in your departure and destination locations in the appropriate fields. Please ensure the place names are accurate, as our AI will use this information to create a perfect travel plan for you. Once all the information is filled out, simply click submit, and our system will automatically start planning your trip.",
   },
   {
-    title: "Why is a landing page important?",
+    title: "Where do the ratings for recommended attractions and hotels come from?",
     content:
-      "Landing pages are crucial for any marketing strategy because they provide a targeted platform for converting visitors into leads or customers. Unlike general websites, landing pages focus the visitor's attention on a single offer, minimizing distractions and guiding them towards a specific action. This focused approach can significantly increase the effectiveness of your marketing campaigns, improve your ad performance, and enhance the overall user experience by providing them with the information or solution they were seeking.",
+      "Our system primarily uses Google and Wikipedia for searches, then our AI organizes the content to produce the recommended attractions and hotel ratings. These ratings are based on multiple information sources to ensure that we provide you with the most valuable and up-to-date data. This way, you can confidently plan your trip based on these recommendations.",
   },
   {
-    title: "Why choose our landing page boilerplate?",
+    title: "Does the system include recommendations for transportation?",
     content:
-      "Our landing page template is free, open-source, and powerful, making it ideal for various projects and marketing campaigns. It allows you to create a landing page in under an hour, simplifying the development process while also offering a high degree of customization and responsiveness.",
+      "Yes, our system provides transportation recommendations based on distance: for international travel, we recommend flights; for interprovincial travel, we suggest trains; and for intra-city travel, we recommend cars. You can review these recommendations to see if they meet your needs and ask our AI to modify them if necessary.",
   },
   {
-    title: "What skills do I need to use this template?",
+    title: "Can I modify the number of travel days and budget?",
     content:
-      "To use our landing page template, you only need basic web editing skills. The design of the template is intended to be easy for non-technical users to get started with, while also providing high customizability for experienced developers.",
+      "Yes, you can. Simply tell the AI your requirements, and it will adjust and optimize your travel plan based on your new needs. Whether you want to increase the number of travel days or adjust the budget, we will ensure that your plan meets your expectations.",
   },
   {
-    title: "How do I get started with the landing page template?",
+    title: "Can I download or print the travel plan?",
     content:
-      "Getting started is very simple. Just download the source code from our GitHub repository, edit the text and images as needed, and then deploy it to your server.",
+      "Yes, you can. We are responsible for providing the correct logical output from the AI. The decision to download or print is up to you. Once the plan is generated, you can choose to download or print it for easy reference.",
   },
   {
-    title: "Does the landing page template support responsive design?",
+    title: "How does the system ensure the security of my personal information?",
     content:
-      "Yes, our landing page template supports responsive design, ensuring that your webpage displays perfectly on a variety of devices, whether desktop, tablet, or smartphone.",
+      "The system does not collect personal information and does not store user query information. We take your privacy and security very seriously, so you can use our services with confidence, without worrying about personal information leaks.",
   },
   {
-    title: "Can I use this template for a commercial project?",
+    title: "Is travel insurance included?",
     content:
-      "Absolutely. Our template is open-source, and you can use it for any type of project, including commercial purposes. We encourage users to utilize this template to create and optimize their online projects.",
+      "Currently, travel insurance is not included. Terms and prices vary by country, so we recommend that you purchase appropriate travel insurance based on your destination.",
   },
   {
-    title: "Do you offer any customization services?",
+    title: "How can I book and pay online?",
     content:
-      "We accept paid custom development of landing pages. Please contact us via email at weijunext@gmail.com or Twitter @weijunext.",
+      "Currently, we only provide travel plans and do not offer online booking and payment services. However, if there is a high demand for this feature, we will consider adding it.",
   },
   {
-    title: "Are there any restrictions on using this template?",
+    title: "Are there recommendations for local cuisine or foods to avoid?",
     content:
-      "No. You are free to use and modify this template. At the same time, we encourage developers to submit PRs to help improve this landing page template together.",
+      "Yes, we do recommend local delicacies, but since everyone has different dietary habits, you will need to review these recommendations yourself to see if they suit your taste and dietary needs.",
   },
   {
-    title: "Does this template include SEO optimization features?",
+    title: "What should I do if I need to change my plan during the trip?",
     content:
-      "Yes, our template includes basic SEO optimization features to help your webpage achieve better rankings in search engines.",
+      "Yes, you can. You can consult the AI with a short-term destination at any time and it will help you create a short-term plan. This way, you can flexibly adjust your trip and ensure every stage is perfect.",
   },
   {
-    title: "What should I do if I encounter problems using the template?",
+    title: " If I have questions or need help, who can I contact?",
     content:
-      "If you encounter any issues while using the template, please contact us via Twitter @weijunext.",
+      "You can email us at: qooovip7@gmail.com, and our customer support team will respond as soon as possible to assist you.",
   },
 ];
 
 export const FAQS_ZH = [
   {
-    title: "什么是落地页？",
+    title: "什么是旅游定制？",
     content:
-      "落地页是为市场营销或广告活动专门创建的独立网页。访问者在点击电子邮件中的链接、Google、Bing、YouTube、Facebook、Instagram、Twitter或网络上类似位置的广告后“降落”到该页面上。与通常具有多个目标并鼓励探索的网页不同，落地页设计有单一焦点或目标，称为行动号召（CTA）。",
+      "旅游定制是一种个性化的旅游服务，它根据你的个人需求和偏好，为你量身打造专属的旅行方案。你只需要告诉我们你的出发地、目的地、旅行天数和预算，我们会为你推荐最适合的景点、酒店，还会提供门票价格等详细信息。这样你就不用花时间去研究和规划了，我们会为你安排好一切，让你的旅行变得更轻松愉快。简单来说，就是我们帮你做所有的规划，你只管享受旅程！",
   },
   {
-    title: "我如何创建一个落地页？",
+    title: "如何填写出发地和目的地？",
     content:
-      "创建落地页可以分几个步骤完成：1) 选择一个适合你活动需求的落地页模板，或从头开始。2) 确定你的落地页目标和CTA。3) 编写吸引访问者采取行动的引人注目的内容。4) 加入与你信息相符的设计元素，如图片、视频和表单。5) 测试你的页面的可用性和移动响应性。6) 使用SEO最佳实践帮助你的页面被发现。7) 发布你的落地页，并监控其性能以根据需要进行调整。",
+      "当你进入页面时，会看到一个表单，你需要在相应的字段中输入你的出发地和目的地。请确保输入的地点名称准确无误，这样我们的AI可以基于这些信息为你生成一个完美的旅行计划。填写完所有信息后，只需点击提交，我们的系统会自动开始为你规划行程。",
   },
   {
-    title: "为什么落地页很重要？",
+    title: "系统推荐的景点和酒店评分从哪里来？",
     content:
-      "落地页对于任何营销策略都至关重要，因为它们提供了一个针对性的平台，用于将访问者转化为潜在客户或客户。与通用网站不同，落地页将访问者的注意力集中在单一优惠上，最小化分心并引导他们向特定行动发展。这种集中的方法可以显著提高你的营销活动的有效性，改善广告性能，并通过为他们提供他们正在寻找的信息或解决方案来增强总体用户体验。",
+      "我们的系统会优先使用谷歌和维基百科进行搜索，然后由AI进行内容整理，最终得出推荐的景点和酒店评分。这些评分基于多方面的信息来源，确保提供给你的都是最有价值和最新的数据。这样，你可以放心根据这些推荐来安排你的旅行。",
   },
   {
-    title: "为什么选择我们的落地页模板？",
+    title: "是否包含交通工具的推荐？",
     content:
-      "我们的落地页模板是免费的、开源的且功能强大，非常适合各种项目和市场营销活动。它允许你在不到一小时内创建一个落地页，简化了开发过程，同时也提供了高度的自定义性和响应性。",
+      "是的，我们的系统会根据远中近的距离来推荐交通工具。比如，出国旅行我们会推荐飞机，出省旅行推荐火车，而市区旅行推荐汽车。具体的推荐是否符合你的需求，你可以自己参考，并让我们的AI帮你进行修改和优化。",
   },
   {
-    title: "使用这个模板我需要哪些技能？",
+    title: "我可以修改旅行天数和预算吗？",
     content:
-      "使用我们的落地页模板，你只需要基本的网页编辑技能。该模板的设计旨在让非技术用户轻松上手，同时为有经验的开发者提供高度的自定义能力。",
+      "可以的，你只需告诉AI你的要求，AI会根据你的新需求继续修改和优化你的旅行计划。无论是增加旅行天数还是调整预算，我们都会确保你的计划符合你的期望。",
   },
   {
-    title: "我如何开始使用落地页模板？",
+    title: "旅行方案可以下载或打印吗？",
     content:
-      "开始非常简单。只需从我们的GitHub仓库下载源代码，根据需要编辑文本和图片，然后将其部署到你的服务器上。",
+      "可以的，我们只负责AI正确的逻辑输出。具体是否下载或打印由你自行决定。在方案生成后，你可以选择下载或打印以便随时查看。",
   },
   {
-    title: "落地页模板支持响应式设计吗？",
+    title: "系统如何保证我的个人信息安全？",
     content:
-      "是的，我们的落地页模板支持响应式设计，确保你的网页在桌面、平板或智能手机等各种设备上完美显示。",
+      "系统并未收集个人信息，同时也不会保存用户的查询信息。我们非常重视你的隐私和安全，因此你可以放心使用我们的服务，而不必担心个人信息泄露的问题。",
   },
   {
-    title: "我可以将这个模板用于商业项目吗？",
+    title: "旅行保险是否包含在内？",
     content:
-      "绝对可以。我们的模板是开源的，你可以将其用于任何类型的项目，包括商业用途。我们鼓励用户利用这个模板来创建和优化他们的在线项目。",
+      "目前不包含旅行保险。每个国家的条款和价格均有所不同，所以我们建议你根据目的地自行购买适合的旅行保险。",
   },
   {
-    title: "你们提供定制服务吗？",
+    title: "如何在线预订和支付？",
     content:
-      "我们接受落地页的定制开发服务。请通过电子邮件weijunext@gmail.com或Twitter @weijunext与我们联系。",
+      "我们目前仅提供出行方案，暂不提供在线预定与支付。但如果有很多人有这个需求，我们会考虑增加这一功能。",
   },
   {
-    title: "使用这个模板有任何限制吗？",
+    title: "是否有推荐美食或需要注意的食品？",
     content:
-      "没有。你可以自由使用和修改这个模板。同时，我们鼓励开发者提交PR来共同帮助改进这个落地页模板。",
+      "我们确实会推荐当地的美食，但由于每个人的饮食习惯不同，你需要自行参考这些推荐是否符合你的口味和饮食需求。",
   },
   {
-    title: "这个模板包括SEO优化功能吗？",
+    title: "如果行程中需要更改计划，该怎么办？",
     content:
-      "是的，我们的模板包含基本的SEO优化功能，帮助你的网页在搜索引擎中获得更好的排名。",
+      "可以的，你可以随时以短期的目的地来咨询AI，让它帮你做一个短途规划。这样，你就能灵活调整你的行程，确保每个阶段都尽善尽美。",
   },
   {
-    title: "如果我在使用模板时遇到问题该怎么办？",
+    title: "如果我有问题或需要帮助，可以联系谁？",
     content:
-      "如果你在使用模板时遇到任何问题，请通过Twitter @weijunext 与我们联系。",
+      "你可以发邮件给我们：qooovip7@gmail.com，我们的客服团队会尽快回复并提供帮助。",
   },
 ];
 
 export const FAQS_JA = [
   {
-    title: "ランディングページとは何ですか？",
+    title: "旅行カスタマイズとは何ですか？",
     content:
-      "ランディングページは、マーケティングや広告キャンペーンのために特別に作成された独立したウェブページです。訪問者がメール内のリンクやGoogle、Bing、YouTube、Facebook、Instagram、Twitter、またはウェブ上の類似の場所からの広告をクリックした後に「着陸」する場所です。ウェブページが多くの目標を持ち探索を促すのに対し、ランディングページは行動を促す一つの焦点または目標（CTA）を持って設計されています。",
+      "旅行カスタマイズとは、あなたの個々のニーズや好みに合わせて専用の旅行プランを作成するサービスです。出発地、目的地、旅行日数、予算を教えていただくだけで、最適な観光地やホテルを提案し、入場料などの詳細情報も提供します。これにより、調査や計画に時間を費やす必要がなくなり、旅行をより楽しく、簡単にすることができます。簡単に言えば、私たちがすべての計画を立てるので、あなたは旅を楽しむだけです！",
   },
   {
-    title: "ランディングページはどのように作成しますか？",
+    title: "出発地と目的地をどのように入力すればよいですか？",
     content:
-      "ランディングページの作成はいくつかのステップで行うことができます：1) キャンペーンのニーズに合ったランディングページのテンプレートを選択するか、ゼロから始めます。2) ランディングページの目的とCTAを特定します。3) 訪問者が行動を起こすよう促す魅力的なコンテンツを作成します。4) メッセージと一致する画像、ビデオ、フォームなどのデザイン要素を取り入れます。5) ページの使いやすさとモバイル対応性をテストします。6) ページが見つかるようにSEOのベストプラクティスを使用します。7) ランディングページを公開し、必要に応じて調整を行いながらそのパフォーマンスを監視します。",
+      "ページにアクセスすると、フォームが表示されます。そこで、出発地と目的地をそれぞれのフィールドに入力してください。正確な地名を入力するようにしてください。これにより、当社のAIはこの情報をもとに完璧な旅行プランを作成することができます。すべての情報を入力したら、送信ボタンをクリックするだけで、システムが自動的に旅行計画を開始します。",
   },
   {
-    title: "ランディングページが重要な理由は何ですか？",
+    title: "システムが推奨する観光地やホテルの評価はどこから来るのですか？",
     content:
-      "ランディングページは、訪問者をリードや顧客に変換するためのターゲットされたプラットフォームを提供するため、あらゆるマーケティング戦略にとって不可欠です。一般的なウェブサイトとは異なり、ランディングページは訪問者の注意を単一のオファーに集中させ、気晴らしを最小限に抑え、特定のアクションに導くことに焦点を当てています。この集中的なアプローチは、マーケティングキャンペーンの効果を著しく高め、広告のパフォーマンスを改善し、訪問者が求めていた情報や解決策を提供することで全体的なユーザー体験を向上させることができます。",
+      "私たちのシステムはまずGoogleとWikipediaを使用して検索し、その後AIが内容を整理して推奨する観光地やホテルの評価を導き出します。これらの評価は、複数の情報源に基づいており、最も価値があり最新のデータを提供します。これにより、安心してこれらの推薦に基づいて旅行を計画することができます。",
   },
   {
-    title: "なぜ私たちのランディングページのボイラープレートを選ぶのですか？",
+    title: "交通手段のおすすめも含まれていますか？",
     content:
-      "私たちのランディングページのテンプレートは無料で、オープンソースで、強力であり、さまざまなプロジェクトやマーケティングキャンペーンに理想的です。1時間以内にランディングページを作成できることで、開発プロセスを簡素化しながら、高度なカスタマイズ性と応答性を提供します。",
+      "はい、当システムでは遠近に応じて交通手段を推奨します。例えば、海外旅行の場合は飛行機を、国内遠方旅行の場合は電車を、市内旅行の場合は車を推奨します。具体的な推奨があなたのニーズに合っているかどうかを確認し、必要に応じてAIに修正を依頼することができます。",
   },
   {
-    title: "このテンプレートを使用するために必要なスキルは何ですか？",
+    title: "旅行日数や予算を変更することはできますか？",
     content:
-      "当社のランディングページテンプレートを使用するには、基本的なウェブ編集スキルだけが必要です。このテンプレートのデザインは、技術的でないユーザーが簡単に始められるように意図されていますが、経験豊富な開発者にも高いカスタマイズ性を提供します。",
+      "はい、できます。AIにあなたの要件を伝えるだけで、AIが新しい要件に基づいて旅行プランを修正および最適化します。旅行日数を増やす場合でも、予算を調整する場合でも、あなたの期待に合ったプランを提供します。",
   },
   {
-    title: "ランディングページテンプレートを使い始めるにはどうすればいいですか？",
+    title: "旅行プランをダウンロードまたは印刷できますか？",
     content:
-      "始めるのは非常に簡単です。GitHubリポジトリからソースコードをダウンロードし、必要に応じてテキストや画像を編集してから、サーバーにデプロイします。",
+      "はい、できます。私たちはAIによる正確な論理出力を提供するだけです。ダウンロードや印刷の可否はご自身で決めてください。プランが生成された後、必要に応じてダウンロードまたは印刷することができます。",
   },
   {
-    title: "ランディングページテンプレートはレスポンシブデザインに対応していますか？",
+    title: "システムはどのように私の個人情報を安全に保護していますか？",
     content:
-      "はい、当社のランディングページテンプレートはレスポンシブデザインに対応しており、デスクトップ、タブレット、スマートフォンなど、さまざまなデバイスで完璧に表示されます。",
+      "システムは個人情報を収集しておらず、ユーザーの検索情報も保存しません。私たちはあなたのプライバシーと安全を非常に重視していますので、個人情報の漏洩を心配せずに安心してサービスをご利用いただけます。",
   },
   {
-    title: "商業プロジェクトでこのテンプレートを使用できますか？",
+    title: "旅行保険は含まれていますか？",
     content:
-      "もちろんです。テンプレートはオープンソースであり、商業目的を含むあらゆる種類のプロジェクトで使用できます。オンラインプロジェクトを作成して最適化するために、このテンプレートを使用することをユーザーに奨励しています。",
+      "現在のところ、旅行保険は含まれていません。各国の規約や価格は異なるため、目的地に応じて適切な旅行保険を自分で購入することをお勧めします。",
   },
   {
-    title: "カスタマイズサービスを提供していますか？",
+    title: "オンラインで予約と支払いをするにはどうすればよいですか？",
     content:
-      "有料のランディングページのカスタム開発を受け付けています。メールweijunext@gmail.comまたはTwitter @weijunextでお問い合わせください。",
+      "現在、私たちは旅行プランのみを提供しており、オンラインでの予約と支払いは提供していません。しかし、多くの人がこの機能を必要としている場合、追加を検討します。",
   },
   {
-    title: "このテンプレートを使用する際に制限はありますか？",
+    title: "おすすめの料理や注意すべき食べ物はありますか？",
     content:
-      "いいえ。このテンプレートを自由に使用および変更することができます。同時に、開発者がPRを提出して、このランディングページテンプレートを一緒に改善することを奨励しています。",
+      "地元の美味しい料理をおすすめしていますが、食事の好みは人それぞれ異なるため、これらのおすすめがあなたの口に合うかどうかはご自身で確認してください。",
   },
   {
-    title: "このテンプレートにはSEO最適化機能が含まれていますか？",
+    title: "旅行中に計画を変更する必要がある場合、どうすればよいですか？",
     content:
-      "はい、テンプレートには基本的なSEO最適化機能が含まれており、検索エンジンでのウェブページのランキング向上に役立ちます。",
+      "はい、できます。短期の目的地をAIに相談し、短期間のプランを作成してもらうことができます。これにより、行程を柔軟に調整し、各段階が完璧になるようにします。",
   },
   {
-    title: "テンプレートの使用中に問題に遭遇した場合、どうすればよいですか？",
+    title: "質問やサポートが必要な場合、誰に連絡すればよいですか？",
     content:
-      "テンプレートの使用中に問題が発生した場合は、Twitter @weijunextでお問い合わせください。",
+      "ご質問やサポートが必要な場合は、次のメールアドレスにご連絡ください：qooovip7@gmail.com。カスタマーサポートチームが迅速に対応いたします。",
   },
 ];
 
 
 export const FAQS_AR = [
   {
-    title: "ما هي صفحة الهبوط؟",
+    title: " ما هو تخصيص الرحلة؟",
     content:
-      "صفحة الهبوط هي صفحة ويب منفصلة تم إنشاؤها خصيصًا لحملة تسويقية أو إعلانية. هذا هو المكان الذي ينتقل إليه الزائر بعد النقر على رابط في بريد إلكتروني أو إعلانات من Google أو Bing أو YouTube أو Facebook أو Instagram أو Twitter أو أماكن مماثلة على الويب. على عكس صفحات الويب التي لديها عادةً العديد من الأهداف وتشجع الاستكشاف، يتم تصميم صفحات الهبوط بهدف واحد محدد، وهو ما يُعرف باسم إجراء الدعوة (CTA).",
+      "تخصيص الرحلة هو خدمة سياحية مخصصة تتوافق مع احتياجاتك وتفضيلاتك الشخصية، حيث نقوم بإعداد خطة سفر خاصة بك. كل ما عليك فعله هو تزويدنا بمعلومات المغادرة والوصول وعدد أيام السفر والميزانية، وسنقوم بترشيح أفضل المعالم السياحية والفنادق المناسبة لك، بالإضافة إلى توفير معلومات تفصيلية عن أسعار التذاكر. بهذه الطريقة، لن تحتاج إلى قضاء الوقت في البحث والتخطيط، نحن نهتم بكل شيء من أجلك، لتستمتع برحلتك بكل بساطة وسهولة. ببساطة، نحن نقوم بكل التخطيط وأنت تستمتع بالرحلة!",
   },
   {
-    title: "كيف يمكنني إنشاء صفحة هبوط؟",
+    title: " كيف يمكنني تعبئة مكان الانطلاق والوصول؟",
     content:
-      "يمكن إنشاء صفحة هبوط في عدة خطوات: 1) اختر قالبًا لصفحة الهبوط يناسب احتياجات حملتك أو ابدأ من الصفر. 2) حدد الهدف من صفحة الهبوط وإجراء الدعوة. 3) اكتب محتوى جذابًا يحث الزوار على اتخاذ إجراء. 4) ضمِّن عناصر تصميم مثل الصور والفيديوهات والنماذج التي تتماشى مع رسالتك. 5) اختبر قابلية استخدام الصفحة واستجابتها للجوال. 6) اتبع أفضل ممارسات SEO لمساعدة صفحتك على الظهور. 7) انشر صفحة الهبوط الخاصة بك وراقب أدائها لإجراء التعديلات اللازمة.",
+      "عند دخولك إلى الصفحة، ستجد نموذجًا يجب عليك تعبئة الحقول الخاصة بمكان الانطلاق والوصول. يرجى التأكد من إدخال أسماء الأماكن بدقة لضمان أن يقوم نظامنا بتوليد خطة سفر مثالية بناءً على هذه المعلومات. بعد تعبئة جميع المعلومات، فقط اضغط على زر الإرسال، وسيتولى النظام تلقائيًا البدء في تخطيط رحلتك.",
   },
   {
-    title: "لماذا تعتبر صفحة الهبوط مهمة؟",
+    title: " من أين تأتي تقييمات المعالم السياحية والفنادق التي يوصي بها النظام؟",
     content:
-      "تعتبر صفحات الهبوط أساسية لأي استراتيجية تسويقية لأنها توفر منصة موجهة لتحويل الزوار إلى عملاء أو عملاء محتملين. على عكس مواقع الويب العامة، تركز صفحات الهبوط انتباه الزائر على عرض واحد، مما يقلل من المشتتات ويوجههم نحو إجراء محدد. يمكن أن يؤدي هذا النهج المركز إلى زيادة فعالية حملاتك التسويقية بشكل كبير، وتحسين أداء الإعلانات، وتعزيز تجربة المستخدم الإجمالية من خلال توفير المعلومات أو الحل الذي كانوا يبحثون عنه.",
+      "نظامنا يستخدم أولاً Google وWikipedia للبحث، ثم يقوم الذكاء الاصطناعي لدينا بتنظيم المحتوى واستخراج التوصيات وتقييمات المعالم السياحية والفنادق. هذه التقييمات تعتمد على مصادر معلومات متعددة لضمان تقديم البيانات الأكثر قيمة وحداثة لك. بذلك يمكنك الاعتماد على هذه التوصيات لتنظيم رحلتك بثقة."
   },
   {
-    title: "لماذا اختيار قالب صفحة الهبوط الخاص بنا؟",
+    title: " هل تتضمن التوصيات وسائل النقل؟",
     content:
-      "إن قالب صفحة الهبوط الخاص بنا مجاني ومفتوح المصدر وقوي، مما يجعله مثاليًا لمختلف المشاريع والحملات التسويقية. يتيح لك إنشاء صفحة هبوط في أقل من ساعة، مما يبسط عملية التطوير مع توفير درجة عالية من إمكانية التخصيص والاستجابة للجوال.",
+      "نعم، يقوم نظامنا بتوصية وسائل النقل بناءً على المسافات: للسفر الدولي نوصي بالطائرة، وللسفر بين المحافظات نوصي بالقطار، وللسفر داخل المدينة نوصي بالسيارة. يمكنك مراجعة التوصيات للتحقق من مدى ملاءمتها لاحتياجاتك، وطلب من الذكاء الاصطناعي تعديلها إذا لزم الأمر.",
   },
   {
-    title: "ما المهارات التي أحتاجها لاستخدام هذا القالب؟",
+    title: " هل يمكنني تعديل عدد أيام الرحلة والميزانية؟",
     content:
-      "لاستخدام قالب صفحة الهبوط الخاص بنا، ستحتاج فقط إلى مهارات أساسية في تحرير الويب. تم تصميم هذا القالب ليكون سهل الاستخدام بالنسبة للمستخدمين غير الفنيين، بينما يوفر أيضًا درجة عالية من إمكانية التخصيص للمطورين ذوي الخبرة.",
+      "نعم، يمكنك ذلك. كل ما عليك فعله هو إخبار الذكاء الاصطناعي بمتطلباتك، وسيقوم الذكاء الاصطناعي بتعديل خطة السفر وتحسينها وفقًا لمتطلباتك الجديدة. سواء كنت ترغب في زيادة عدد أيام السفر أو تعديل الميزانية، سنتأكد من أن خطتك تتوافق مع توقعاتك.",
   },
   {
-    title: "كيف أبدأ باستخدام قالب صفحة الهبوط؟",
+    title: " هل يمكنني تحميل أو طباعة خطة السفر؟",
     content:
-      "البدء هو أمر بسيط. ما عليك سوى تنزيل الكود المصدري من مستودعنا على GitHub، وتحرير النص والصور حسب الحاجة، ثم نشره على خادمك.",
+      "نعم، يمكنك ذلك. نحن نقتصر على تقديم الإخراج المنطقي الصحيح من الذكاء الاصطناعي. أما تحميل أو طباعة الخطة فهو قرارك. بعد إنشاء الخطة، يمكنك اختيار تحميلها أو طباعتها لسهولة الرجوع إليها.",
   },
   {
-    title: "هل يدعم قالب صفحة الهبوط التصميم المستجيب؟",
+    title: " كيف يضمن النظام أمان معلوماتي الشخصية؟",
     content:
-      "نعم، يدعم قالب صفحة الهبوط الخاص بنا التصميم المستجيب، مما يضمن عرض صفحتك الإلكترونية بشكل مثالي على مجموعة متنوعة من الأجهزة، سواء كانت أجهزة سطح المكتب أو الأجهزة اللوحية أو الهواتف الذكية.",
+      "النظام لا يجمع المعلومات الشخصية، كما أنه لا يحفظ معلومات استفسارات المستخدمين. نحن نولي أهمية كبيرة لخصوصيتك وأمانك، لذا يمكنك استخدام خدماتنا بثقة دون القلق بشأن تسرب المعلومات الشخصية.",
   },
   {
-    title: "هل يمكنني استخدام هذا القالب لمشروع تجاري؟",
+    title: "هل يشمل التأمين على السفر؟",
     content:
-      "بالتأكيد. إن قالب المصدر هذا مفتوح المصدر، ويمكنك استخدامه لأي نوع من المشاريع، بما في ذلك الأغراض التجارية. نحن نشجع المستخدمين على استخدام هذا القالب لإنشاء وتحسين مشاريعهم عبر الإنترنت.",
+      "حاليًا، التأمين على السفر غير مشمول. تختلف الشروط والأسعار حسب البلد، لذا نوصيك بشراء التأمين المناسب للسفر وفقًا لوجهتك.",
   },
   {
-    title: "هل تقدمون خدمات تخصيص؟",
+    title: "كيف يمكنني الحجز والدفع عبر الإنترنت؟",
     content:
-      "نحن نقبل التطوير المخصص المدفوع لصفحات الهبوط. يرجى التواصل معنا عبر البريد الإلكتروني على weijunext@gmail.com أو تويتر @weijunext.",
+      "حاليًا، نقدم فقط خطط السفر ولا نقدم خدمات الحجز والدفع عبر الإنترنت. لكن إذا كان هناك طلب كبير على هذه الخدمة، فسننظر في إضافتها.",
   },
   {
-    title: "هل هناك قيود على استخدام هذا القالب؟",
+    title: "هل توجد توصيات للأطعمة أو الأطباق التي يجب تجنبها؟",
     content:
-      "لا. أنت حر في استخدام وتعديل هذا القالب. في الوقت نفسه، نشجع المطورين على تقديم طلبات المراجعة للمساعدة في تحسين هذا قالب صفحة الهبوط معًا.",
+      "نعم، نحن نوصي بالأطعمة المحلية اللذيذة، ولكن نظرًا لاختلاف العادات الغذائية بين الأفراد، عليك مراجعة هذه التوصيات بنفسك لمعرفة ما إذا كانت تناسب ذوقك واحتياجاتك الغذائية.",
   },
   {
-    title: "هل يتضمن هذا القالب ميزات تحسين محركات البحث (SEO)؟",
+    title: "ماذا أفعل إذا كنت بحاجة إلى تغيير خطتي أثناء الرحلة؟",
     content:
-      "نعم، يتضمن قالبنا ميزات تحسين محركات البحث الأساسية للمساعدة في تحقيق تصنيفات أفضل لصفحتك الإلكترونية في محركات البحث.",
+      "نعم، يمكنك ذلك. يمكنك استشارة الذكاء الاصطناعي بشأن وجهة قصيرة الأمد ليقوم بمساعدتك في وضع خطة قصيرة الأجل. بذلك، يمكنك تعديل رحلتك بمرونة لضمان أن تكون كل مرحلة مثالية.",
   },
   {
-    title: "ماذا يجب أن أفعل إذا واجهت مشكلات أثناء استخدام القالب؟",
+    title: "إذا كان لدي سؤال أو بحاجة إلى مساعدة، بمن أتصل؟",
     content:
-      "إذا واجهت أي مشكلات أثناء استخدام القالب، فيرجى التواصل معنا عبر تويتر @weijunext.",
+      "يمكنك إرسال بريد إلكتروني إلينا على: qooovip7@gmail.com، وسيتواصل معك فريق الدعم الخاص بنا في أقرب وقت ممكن لتقديم المساعدة.",
   },
 ];
 
 export const FAQS_ES = [
   {
-    title: "¿Qué es una página de destino?",
+    title: "¿Qué es la personalización de viajes?",
     content:
-      "Una página de destino es una página web independiente creada específicamente para una campaña de marketing o publicidad. Es el lugar donde un visitante 'aterriza' después de hacer clic en un enlace en un correo electrónico o en anuncios de Google, Bing, YouTube, Facebook, Instagram, Twitter o lugares similares en la web. A diferencia de las páginas web, que típicamente tienen muchos objetivos y fomentan la exploración, las páginas de destino se diseñan con un solo enfoque u objetivo, conocido como una acción de llamada (CTA).",
+      "La personalización de viajes es un servicio de viaje personalizado que crea un plan de viaje único adaptado a tus necesidades y preferencias individuales. Simplemente nos proporcionas tu lugar de salida, destino, duración del viaje y presupuesto, y te recomendaremos las mejores atracciones y hoteles, junto con información detallada sobre los precios de las entradas. De esta manera, no tienes que pasar tiempo investigando y planificando; nosotros nos encargamos de todo, haciendo que tu experiencia de viaje sea más suave y agradable. En resumen, nosotros hacemos toda la planificación y tú solo disfrutas del viaje.",
   },
   {
-    title: "¿Cómo puedo crear una página de destino?",
+    title: "¿Cómo relleno los campos de salida y destino?",
     content:
-      "Crear una página de destino se puede hacer en varios pasos: 1) Elige una plantilla de página de destino que se adapte a las necesidades de tu campaña o comienza desde cero. 2) Identifica el objetivo y la CTA de tu página de destino. 3) Escribe un contenido convincente que anime a los visitantes a tomar medidas. 4) Incorpora elementos de diseño como imágenes, videos y formularios que se alineen con tu mensaje. 5) Prueba la usabilidad y la capacidad de respuesta móvil de tu página. 6) Utiliza las mejores prácticas de SEO para ayudar a que tu página se encuentre. 7) Publica tu página de destino y monitorea su rendimiento para hacer ajustes según sea necesario.",
+      "Cuando entres a la página, verás un formulario donde debes rellenar los campos correspondientes a tu lugar de salida y destino. Asegúrate de que los nombres de los lugares sean precisos, ya que nuestra IA utilizará esta información para crear un plan de viaje perfecto para ti. Una vez que hayas completado toda la información, simplemente haz clic en enviar, y nuestro sistema comenzará automáticamente a planificar tu viaje.",
   },
   {
-    title: "¿Por qué es importante una página de destino?",
+    title: "¿De dónde provienen las calificaciones de las atracciones y hoteles recomendados por el sistema?",
     content:
-      "Las páginas de destino son cruciales para cualquier estrategia de marketing porque proporcionan una plataforma específica para convertir a los visitantes en clientes potenciales o clientes. A diferencia de los sitios web generales, las páginas de destino enfocan la atención del visitante en una oferta única, minimizando las distracciones y guiándolos hacia una acción específica. Este enfoque centrado puede aumentar significativamente la efectividad de tus campañas de marketing, mejorar el rendimiento de tus anuncios y mejorar la experiencia general del usuario al brindarles la información o la solución que estaban buscando.",
+      "Nuestro sistema utiliza principalmente Google y Wikipedia para las búsquedas, luego nuestra IA organiza el contenido para producir las calificaciones de atracciones y hoteles recomendados. Estas calificaciones se basan en múltiples fuentes de información para garantizar que te proporcionemos los datos más valiosos y actualizados. De esta manera, puedes planificar tu viaje con confianza basándote en estas recomendaciones.",
   },
   {
-    title: "¿Por qué elegir nuestra plantilla de página de destino?",
+    title: "¿Incluye el sistema recomendaciones de transporte?",
     content:
-      "Nuestra plantilla de página de destino es gratuita, de código abierto y poderosa, lo que la convierte en ideal para diversos proyectos y campañas de marketing. Te permite crear una página de destino en menos de una hora, simplificando el proceso de desarrollo y ofreciendo también un alto grado de personalización y capacidad de respuesta.",
+      "Sí, nuestro sistema ofrece recomendaciones de transporte según la distancia: para viajes internacionales, recomendamos vuelos; para viajes interprovinciales, sugerimos trenes; y para viajes dentro de la ciudad, recomendamos autos. Puedes revisar estas recomendaciones para ver si cumplen con tus necesidades y pedirle a nuestra IA que las modifique si es necesario.",
   },
   {
-    title: "¿Qué habilidades necesito para usar esta plantilla?",
+    title: "¿Puedo modificar el número de días de viaje y el presupuesto?",
     content:
-      "Para usar nuestra plantilla de página de destino, solo necesitas habilidades básicas de edición web. El diseño de la plantilla está pensado para que los usuarios no técnicos puedan comenzar fácilmente, mientras que también ofrece una alta personalización para desarrolladores experimentados.",
+      "Sí, puedes. Solo tienes que decirle a la IA tus requisitos, y ajustará y optimizará tu plan de viaje según tus nuevas necesidades. Ya sea que desees aumentar el número de días de viaje o ajustar el presupuesto, nos aseguraremos de que tu plan cumpla con tus expectativas.",
   },
   {
-    title: "¿Cómo puedo empezar con la plantilla de página de destino?",
+    title: "¿Puedo descargar o imprimir el plan de viaje?",
     content:
-      "Empezar es muy sencillo. Simplemente descarga el código fuente de nuestro repositorio de GitHub, edita el texto y las imágenes según sea necesario y luego despliégalo en tu servidor.",
+      "Sí, puedes. Nosotros solo nos encargamos de proporcionar la salida lógica correcta del AI. La decisión de descargar o imprimir depende de ti. Una vez que se genere el plan, puedes optar por descargarlo o imprimirlo para una fácil referencia.",
   },
   {
-    title: "¿La plantilla de página de destino admite diseño receptivo?",
+    title: "¿Cómo garantiza el sistema la seguridad de mi información personal?",
     content:
-      "Sí, nuestra plantilla de página de destino admite diseño receptivo, lo que asegura que tu página web se muestre perfectamente en una variedad de dispositivos, ya sean de escritorio, tableta o teléfono inteligente.",
+      "El sistema no recopila información personal ni almacena la información de las consultas de los usuarios. Nos tomamos muy en serio tu privacidad y seguridad, por lo que puedes utilizar nuestros servicios con confianza, sin preocuparte por la filtración de información personal.",
   },
   {
-    title: "¿Puedo usar esta plantilla para un proyecto comercial?",
+    title: "¿Se incluye el seguro de viaje?",
     content:
-      "Absolutamente. Nuestra plantilla es de código abierto y puedes usarla para cualquier tipo de proyecto, incluidos fines comerciales. Alentamos a los usuarios a utilizar esta plantilla para crear y optimizar sus proyectos en línea.",
+      "Actualmente, el seguro de viaje no está incluido. Los términos y precios varían según el país, por lo que te recomendamos que compres un seguro de viaje adecuado según tu destino.",
   },
   {
-    title: "¿Ofrecen servicios de personalización?",
+    title: "¿Cómo puedo reservar y pagar en línea?",
     content:
-      "Aceptamos el desarrollo personalizado de páginas de destino a pedido. Por favor, contáctanos por correo electrónico a weijunext@gmail.com o en Twitter @weijunext.",
+      "Actualmente, solo ofrecemos planes de viaje y no ofrecemos servicios de reserva y pago en línea. Sin embargo, si hay una gran demanda de esta función, consideraremos agregarla.",
   },
   {
-    title: "¿Hay alguna restricción para usar esta plantilla?",
+    title: " ¿Hay recomendaciones de comida local o alimentos que debo evitar?",
     content:
-      "No. Eres libre de usar y modificar esta plantilla. Al mismo tiempo, alentamos a los desarrolladores a enviar solicitudes de extracción (PR) para ayudar a mejorar esta plantilla de página de destino juntos.",
+      "Sí, recomendamos las delicias locales, pero dado que cada persona tiene hábitos alimentarios diferentes, deberás revisar estas recomendaciones tú mismo para ver si se adaptan a tus gustos y necesidades dietéticas.",
   },
   {
-    title: "¿Esta plantilla incluye funciones de optimización SEO?",
+    title: "¿Qué debo hacer si necesito cambiar mi plan durante el viaje?",
     content:
-      "Sí, nuestra plantilla incluye funciones básicas de optimización SEO para ayudar a que tu página web logre mejores posiciones en los motores de búsqueda.",
+      "Sí, puedes hacerlo. Puedes consultar con la IA sobre un destino a corto plazo y te ayudará a crear un plan a corto plazo. De esta manera, podrás ajustar tu viaje con flexibilidad y asegurarte de que cada etapa sea perfecta.",
   },
   {
-    title: "¿Qué debo hacer si tengo problemas al usar la plantilla?",
+    title: "Si tengo preguntas o necesito ayuda, ¿a quién puedo contactar?",
     content:
-      "Si encuentras problemas mientras usas la plantilla, comunícate con nosotros a través de Twitter @weijunext.",
+      "Puedes enviarnos un correo electrónico a: qooovip7@gmail.com, y nuestro equipo de atención al cliente te responderá lo antes posible para asistirte.",
   },
 ];
 
 export const FAQS_RU = [
   {
-    title: "Что такое целевая страница?",
+    title: "Что такое туристическая настройка?",
     content:
-      "Целевая страница - это отдельная веб-страница, специально созданная для маркетинговой или рекламной кампании. Это место, где посетитель 'приземляется' после нажатия на ссылку в электронном письме или рекламе в Google, Bing, YouTube, Facebook, Instagram, Twitter или других подобных местах в Интернете. В отличие от веб-страниц, которые, как правило, имеют множество целей и поощряют исследование, целевые страницы разработаны с единственной фокусной точкой или целью, известной как призыв к действию (CTA).",
+      "Туристическая настройка – это персонализированная туристическая услуга, которая разрабатывает индивидуальный план поездки в соответствии с вашими потребностями и предпочтениями. Вам нужно просто сообщить нам место отправления, пункт назначения, количество дней и бюджет, а мы подберем для вас наиболее подходящие достопримечательности и отели, а также предоставим подробную информацию о ценах на билеты. Таким образом, вам не придется тратить время на исследования и планирование, мы позаботимся обо всем, чтобы вы могли наслаждаться своим путешествием. Проще говоря, мы делаем все планирование, а вы просто наслаждаетесь поездкой!",
   },
   {
-    title: "Как я могу создать целевую страницу?",
+    title: "Как заполнить поля "место отправления" и "пункт назначения"?",
     content:
-      "Создание целевой страницы можно выполнить в несколько шагов: 1) Выберите шаблон целевой страницы, который соответствует потребностям вашей кампании, или начните с нуля. 2) Определите цель вашей целевой страницы и CTA. 3) Напишите убедительный контент, который побудит посетителей предпринять действие. 4) Включите элементы дизайна, такие как изображения, видео и формы, которые соответствуют вашему сообщению. 5) Протестируйте удобство использования и мобильную адаптивность вашей страницы. 6) Используйте лучшие практики SEO, чтобы помочь вашей странице быть найденной. 7) Опубликуйте вашу целевую страницу и отслеживайте ее производительность, чтобы вносить необходимые коррективы.",
+      "Когда вы войдете на страницу, вы увидите форму, в которой нужно указать ваше место отправления и пункт назначения. Пожалуйста, убедитесь, что ввели точные названия мест, чтобы наша система могла на основе этой информации составить для вас идеальный план путешествия. После заполнения всех полей просто нажмите кнопку "отправить", и наша система автоматически начнет планирование вашего путешествия.",
   },
   {
-    title: "Почему важна целевая страница?",
+    title: "Откуда берутся оценки рекомендованных достопримечательностей и отелей?",
     content:
-      "Целевые страницы имеют решающее значение для любой маркетинговой стратегии, поскольку они обеспечивают ориентированную платформу для превращения посетителей в потенциальных клиентов или клиентов. В отличие от общих веб-сайтов, целевые страницы фокусируют внимание посетителя на единственном предложении, сводя к минимуму отвлекающие факторы и направляя их к конкретному действию. Этот сфокусированный подход может значительно повысить эффективность ваших маркетинговых кампаний, улучшить производительность рекламы и улучшить общий пользовательский опыт, предоставляя им информацию или решение, которое они искали.",
+      "Наша система сначала использует Google и Wikipedia для поиска, затем наш ИИ систематизирует информацию и формирует рекомендации и оценки достопримечательностей и отелей. Эти оценки основаны на множестве источников информации, что гарантирует предоставление самых ценных и актуальных данных. Таким образом, вы можете смело планировать своё путешествие, полагаясь на эти рекомендации.",
   },
   {
-    title: "Почему выбрать наш шаблон целевой страницы?",
+    title: "Включают ли рекомендации транспортные средства?",
     content:
-      "Наш шаблон целевой страницы является бесплатным, с открытым исходным кодом и мощным, что делает его идеальным для различных проектов и маркетинговых кампаний. Он позволяет создать целевую страницу менее чем за час, упрощая процесс разработки, а также предлагая высокую степень кастомизации и адаптивности.",
+      "Да, наша система рекомендует транспортные средства в зависимости от расстояния: для международных поездок - самолеты, для межрегиональных - поезда, для городских - автомобили. Вы можете проверить, соответствуют ли рекомендации вашим потребностям, и при необходимости попросить ИИ внести изменения.",
   },
   {
-    title: "Какие навыки мне нужны, чтобы использовать этот шаблон?",
+    title: "Могу ли я изменить количество дней путешествия и бюджет?",
     content:
-      "Для использования нашего шаблона целевой страницы вам понадобятся только базовые навыки веб-редактирования. Дизайн шаблона рассчитан на то, чтобы быть легким для использования неопытными пользователями, в то же время предоставляя высокую степень кастомизации для опытных разработчиков.",
+      "Да, конечно. Вам нужно просто сообщить свои требования ИИ, и он внесет изменения в план путешествия в соответствии с вашими новыми запросами. Независимо от того, хотите ли вы увеличить количество дней или скорректировать бюджет, мы сделаем всё возможное, чтобы ваш план соответствовал вашим ожиданиям.",
   },
   {
-    title: "Как я могу начать работу с шаблоном целевой страницы?",
+    title: "Могу ли я скачать или распечатать план путешествия?",
     content:
-      "Начать очень просто. Просто скачайте исходный код из нашего репозитория GitHub, отредактируйте текст и изображения по мере необходимости, а затем разверните его на своем сервере.",
+      "Да, можете. Мы обеспечиваем только правильный логический вывод ИИ. Решение о скачивании или печати остается за вами. После генерации плана вы можете выбрать его загрузку или печать для удобства просмотра.",
   },
   {
-    title: "Поддерживает ли шаблон целевой страницы адаптивный дизайн?",
+    title: "Как система обеспечивает безопасность моей личной информации?",
     content:
-      "Да, наш шаблон целевой страницы поддерживает адаптивный дизайн, что гарантирует, что ваша веб-страница будет идеально отображаться на различных устройствах, будь то настольный компьютер, планшет или смартфон.",
+      "Система не собирает личную информацию и не сохраняет данные запросов пользователей. Мы очень серьёзно относимся к вашей конфиденциальности и безопасности, поэтому вы можете спокойно пользоваться нашими услугами, не беспокоясь о утечке личной информации.",
   },
   {
-    title: "Могу ли я использовать этот шаблон для коммерческого проекта?",
+    title: "Включена ли туристическая страховка?",
     content:
-      "Абсолютно. Наш шаблон с открытым исходным кодом, и вы можете использовать его для любого типа проекта, включая коммерческие цели. Мы поощряем пользователей использовать этот шаблон для создания и оптимизации их онлайн-проектов.",
+      "На данный момент туристическая страховка не включена. Условия и цены различаются в зависимости от страны, поэтому мы рекомендуем самостоятельно приобрести подходящую страховку для путешествий в зависимости от вашего направления.",
   },
   {
-    title: "Предлагаете ли вы услуги по кастомизации?",
+    title: "Как можно забронировать и оплатить онлайн?",
     content:
-      "Мы принимаем заказные разработки целевых страниц. Пожалуйста, свяжитесь с нами по электронной почте weijunext@gmail.com или в Twitter @weijunext.",
+      "В настоящее время мы предоставляем только планы поездок и не предлагаем онлайн-бронирование и оплату. Однако, если будет много желающих, мы рассмотрим возможность добавления этой функции.",
   },
   {
-    title: "Есть ли какие-либо ограничения на использование этого шаблона?",
+    title: "Есть ли рекомендации по местной кухне или продукты, которых следует избегать?",
     content:
-      "Нет. Вы можете свободно использовать и изменять этот шаблон. В то же время мы призываем разработчиков отправлять запросы на слияние, чтобы помочь улучшить этот шаблон целевой страницы вместе.",
+      "Мы действительно рекомендуем местные деликатесы, но так как у каждого человека разные пищевые предпочтения, вам следует самостоятельно оценить, подходят ли эти рекомендации вашему вкусу и диетическим потребностям.",
   },
   {
-    title: "Включает ли этот шаблон функции оптимизации SEO?",
+    title: "Что делать, если нужно изменить план во время поездки?",
     content:
-      "Да, наш шаблон включает базовые функции оптимизации SEO, чтобы помочь вашей веб-странице достичь лучших позиций в поисковых системах.",
+      "Конечно, вы можете это сделать. Вы можете в любой момент проконсультироваться с ИИ по поводу короткой поездки, и он поможет вам составить краткосрочный план. Это позволит вам гибко корректировать своё путешествие, чтобы каждая его часть была идеальной.",
   },
   {
-    title: "Что мне делать, если я столкнусь с проблемами при использовании шаблона?",
+    title: "К кому обратиться, если у меня возникнут вопросы или понадобится помощь?",
     content:
-      "Если вы столкнетесь с какими-либо проблемами при использовании шаблона, пожалуйста, свяжитесь с нами через Twitter @weijunext.",
+      "Вы можете написать нам на электронную почту: qooovip7@gmail.com, наша команда поддержки свяжется с вами в кратчайшие сроки и предоставит необходимую помощь.",
   },
 ];
 
